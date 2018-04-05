@@ -1,0 +1,16 @@
+#header_index {
+    margin: 0 0 0 12px;
+    padding: 0;
+    border: 0;
+    width: 1210px;
+    height: 100px;
+    background-color: #fdfcf8;
+}
+#wrapper {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    width: 1239px;
+    text-align: left;
+    background-color: gray;
+}
