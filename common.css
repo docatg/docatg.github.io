@@ -9,7 +9,8 @@ div#top {
 div#wrapper {
     margin: 50 auto;
     padding: 0;
-    border: 0;
+    border: 2px;
+    border-style: solid dotted dashed double;
     width: 1239px;
     text-align: left;
     background-color: white;
