@@ -1,4 +1,4 @@
-.top {
+div#top {
     margin: 0 0 0 0;
     padding: 0;
     border: 0;
@@ -6,7 +6,7 @@
     width : 1000px;
     background-color: black;
 }
-#wrapper {
+div#wrapper {
     margin: 50 auto;
     padding: 0;
     border: 0;
@@ -14,7 +14,7 @@
     text-align: left;
     background-color: white;
 }
-#header_index {
+div#header_index {
     margin: 10 10 10 10px;
     padding: 0;
     border: 0;
