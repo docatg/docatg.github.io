@@ -3,7 +3,7 @@ div#top {
     padding: 0;
     border: 0;
     height: 50px;
-    width : 1000px;
+    width : 100%;
     background-color: black;
 }
 div#wrapper {
