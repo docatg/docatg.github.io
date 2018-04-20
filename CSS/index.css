@@ -8,6 +8,11 @@ a{text-decoration:none;}
 .clear{clear:both;}
 li{list-style:none;}
 img{display:block;border:0px;}
+h1,h2,h3,h4,h5,h6,a{
+	font-family: 'Bad Script', cursive;
+	font-weight:100;
+	margin:0;
+}
 /*end*/
 #header{width:1000px;height:100px;margin:0 auto;}
 #header h1{font-size:24px;color:#664666;padding:5px 0 5px 15px;font-weight:600;}
