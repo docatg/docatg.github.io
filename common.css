@@ -7,13 +7,18 @@ div#top {
     background-color: black;
 }
 div#wrapper {
-    margin: 50 auto;
+    margin: auto;
     padding: 0;
     border: 2px;
     border-style: solid dotted dashed double;
     width: 1239px;
     text-align: left;
     background-color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 div#header_index {
     margin: 10 10 10 10px;
