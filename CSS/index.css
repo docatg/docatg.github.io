@@ -5,6 +5,7 @@ body{font-size:14px;font-family:"微软雅黑";background:#E3E3E5 url(../src/img
 a{text-decoration:none;}
 .left{float:left;}
 .right{float:right;}
+.center{float:center;}
 .clear{clear:both;}
 li{list-style:none;}
 img{display:block;border:0px;}
