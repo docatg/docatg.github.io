@@ -15,10 +15,10 @@ div#wrapper {
     text-align: left;
     background-color: white;
     position: absolute;
-    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
+    top: 0;
 }
 div#header_index {
     margin: 10 10 10 10px;
