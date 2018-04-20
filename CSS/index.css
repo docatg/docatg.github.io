@@ -6,18 +6,14 @@
   src: url("../src/font/Bad Script Regular.ttf");
 }
 *{margin:0; padding:0px;}
-body{font-size:14px;font-family:"微软雅黑";background:#E3E3E5 url(../src/img/bg.jpg)  50% top scroll no-repeat;color:#5d5d5d;}
+body{font-size:14px;font-family: BadScript;background:#E3E3E5 url(../src/img/bg.jpg)  50% top scroll no-repeat;color:#5d5d5d;}
 a{text-decoration:none;}
 .left{float:left;}
 .right{float:right;}
 .clear{clear:both;}
 li{list-style:none;}
 img{display:block;border:0px;}
-h1,h2,h3,h4,h5,h6{
-	font-family: BadScript;
-	font-weight:100;
-	margin:0;
-}
+
 /*end*/
 #header{width:1000px;height:100px;margin:0 auto;}
 #header h1{font-size:24px;color:#664666;padding:5px 0 5px 15px;font-weight:600;}
